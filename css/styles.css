@@ -1,12 +1,12 @@
 body {
-  background-color: #FAF7F0;
+  background-color: #EDF6E5;
 }
 
 hr {
   border-style: none;
   border-top-style: dotted;
   border-width: 10px;
-  border-color: #CDFCF6;
+  border-color: #00ADB5;
   height: 0px;
   width: 40%
 }
@@ -16,11 +16,11 @@ img {
 }
 
 h1 {
-  color: #98A8F8;
+  color: #00ADB5;
 }
 h2 {
-  color:#98A8F8;
+  color:#393E46;
 }
 h3 {
-  color: #98A8F8;
+  color: #393E46;
 }
