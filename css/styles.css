@@ -1,6 +1,7 @@
 body {
   background-color: White;
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
 hr {
@@ -18,7 +19,7 @@ img {
 
 h1 {
   color: #00337C;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Merriweather', serif;
 }
 h2 {
   color:Black;
@@ -26,5 +27,8 @@ h2 {
 }
 h3 {
   color: #75CAC3s;
+  font-family: 'Montserrat', sans-serif;
+}
+a {
   font-family: 'Montserrat', sans-serif;
 }
